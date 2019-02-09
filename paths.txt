@@ -1,0 +1,7 @@
+Libraries
+
+/usr/local/lib
+
+Include
+
+/usr/local/include
